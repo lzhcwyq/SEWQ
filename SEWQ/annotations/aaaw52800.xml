@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D:/JS_LABEL/all_images_353</folder>
+	<filename>aaaw52800.jpg</filename>
+	<path>D:/JS_LABEL/all_images_353/aaaw52800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>793</xmin>
+			<ymin>2</ymin>
+			<xmax>1535</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>

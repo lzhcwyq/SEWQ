@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>allp20230407095136.jpg</filename>
+	<path>F:\XZJ\XZJ\images\allp20230407095136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>1</ymin>
+			<xmax>207</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

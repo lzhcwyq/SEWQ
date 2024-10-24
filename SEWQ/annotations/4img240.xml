@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images-2</folder>
+	<filename>4img240.jpg</filename>
+	<path>E:\实训\images-2\4img240.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>570</ymin>
+			<xmax>1039</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+</annotation>

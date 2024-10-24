@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>allp20230407100959.jpg</filename>
+	<path>D:\JS\six\LZH\images\allp20230407100959.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>155</ymin>
+			<xmax>1271</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

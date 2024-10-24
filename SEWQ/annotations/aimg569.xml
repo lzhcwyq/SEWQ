@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imges</folder>
+	<filename>aimg569.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\打标签\SK\imges\aimg569.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1275</xmin>
+			<ymin>230</ymin>
+			<xmax>2560</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+</annotation>

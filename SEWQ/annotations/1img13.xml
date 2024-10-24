@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>1img13.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\打标签\宋珂\img\1img13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>484</ymin>
+			<xmax>947</xmax>
+			<ymax>1412</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C:/Users/nurn/Desktop/xinzengshuju</folder>
+	<filename>20230317154431.jpg</filename>
+	<path>C:/Users/nurn/Desktop/xinzengshuju/20230317154431.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>5</ymin>
+			<xmax>212</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

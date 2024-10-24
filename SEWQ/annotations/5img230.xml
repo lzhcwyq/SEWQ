@@ -1,0 +1,26 @@
+<annotation>
+	<folder>李俊宇</folder>
+	<filename>5img230.jpg</filename>
+	<path>C:\Users\lijunyu\Desktop\李俊宇111\李俊宇\5img230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>476</ymin>
+			<xmax>949</xmax>
+			<ymax>1394</ymax>
+		</bndbox>
+	</object>
+</annotation>
